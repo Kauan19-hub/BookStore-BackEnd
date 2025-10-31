@@ -19,6 +19,7 @@ Console: [https://www.pythonanywhere.com/consoles](https://www.pythonanywhere.co
   <img width="500" height="989" alt="image" src="https://github.com/user-attachments/assets/7e10e711-3cee-4995-9fd7-eebd849f0918" /><br>
   <img width="500" height="997" alt="image" src="https://github.com/user-attachments/assets/a53b17e2-a3bc-4ebe-9d59-1466e1c069d5" /><br>
   <img width="500" height="1001" alt="image" src="https://github.com/user-attachments/assets/2406d28a-fab4-4a67-b109-034b9022192f" /><br>
+  <img width="500" height="442" alt="image" src="https://github.com/user-attachments/assets/fa7646f6-7c85-4a69-8fae-b47041cc77b3" />
 </div>
 
 ---
